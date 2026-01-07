@@ -18,6 +18,11 @@ This project demonstrates low-level image generation using manual pixel placemen
 
 ---
 
+## Demo
+![House Creator Demo](demo.gif)
+
+---
+
 ## Technical Highlights
 - Manual pixel-level rendering (no graphics engines)
 - Custom implementations of rectangles, circles, and triangles
